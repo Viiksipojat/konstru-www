@@ -14,7 +14,7 @@
         {% for p in site.pages %}
           {% if site.navigation contains p.url %}
           <li {% if p.url == page.url %}class="active"{% endif %}>
-            <a href="{{ p.url | remove:'index.html' }}">{{ p.title }}</a>
+            <a href="{{ p.url | remove:'index.html' | prepend: site.baseurl }}">{{ p.title }}</a>
           </li>
           {% endif %}
         {% endfor %}
