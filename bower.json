@@ -1,0 +1,21 @@
+{
+  "name": "konstru-www",
+  "version": "1.0",
+  "authors": [
+    "Mikko Leino <mikko@viiksipojat.fi>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5shiv": "~3.7.2",
+    "respond": "~1.4.2",
+    "bootstrap-sass": "~3.3.5",
+    "gmaps": "~0.4.18"
+  }
+}

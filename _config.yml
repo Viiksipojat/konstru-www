@@ -1,0 +1,26 @@
+# site settings
+title: Konstru
+description: TODO Prööted to head meta description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://konstru.fi" # the base hostname & protocol for your site
+navigation: 
+  - /
+  - /yhteystiedot/
+  - /rekrytointi/
+# - /ota-yhteytta/ # TODO: merge w/ yhteystiedot
+  - /palvelut/
+  - /referenssit/
+
+sass:
+  sass_dir: bower_components/bootstrap-sass/assets/stylesheets
+  style: compressed
+
+# build settings
+markdown: redcarpet
+# markdown: kramdown
+exclude:
+  - "bower_components"
+  - "bower.json"
+  - "node_modules"
+  - "package.json"
+  - "Gruntfile.coffee"
