@@ -5,11 +5,11 @@
 
 @font-face {
     font-family: 'PTSANS';
-    src: url('/fonts/PTN77F-webfont.eot');
-    src: url('/fonts/PTN77F-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/PTN77F-webfont.woff') format('woff'),
-         url('/fonts/PTN77F-webfont.ttf') format('truetype'),
-         url('/fonts/PTN77F-webfont.svg#pt_sans_narrowbold') format('svg');
+    src: url('../fonts/PTN77F-webfont.eot');
+    src: url('../fonts/PTN77F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/PTN77F-webfont.woff') format('woff'),
+         url('../fonts/PTN77F-webfont.ttf') format('truetype'),
+         url('../fonts/PTN77F-webfont.svg#pt_sans_narrowbold') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -60,7 +60,7 @@ body {
 }
 
 #content {
-	background-image: url("/static/bg-bw-1200.jpg");
+	background-image: url("../static/bg-bw-1200.jpg");
 	background-size: 100%;
 	background-position: bottom;
 	background-repeat: no-repeat;
