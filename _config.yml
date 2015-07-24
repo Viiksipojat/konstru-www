@@ -1,8 +1,10 @@
 # site settings
 title: Konstru
 description: TODO Prööted to head meta description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://konstru.fi" # the base hostname & protocol for your site
+baseurl: "/konstru-www"
+url: "http://viiksipojat.github.io"
+# baseurl: ""
+# url: "http://konstru.fi" # the base hostname & protocol for your site
 navigation: 
   - /
   - /yhteystiedot/
@@ -18,6 +20,9 @@ sass:
 # build settings
 markdown: redcarpet
 # markdown: kramdown
+
+include:
+  - .nojekyll
 exclude:
   - "bower_components"
   - "bower.json"
