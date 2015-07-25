@@ -57,7 +57,7 @@ module.exports = (grunt) ->
       options: 
         processors: [require("autoprefixer-core")({browsers: "last 2 versions"})]
       dist:
-        src: "_dist/css/*.css"
+        src: "_site/css/*.css"
 
     watch:
       options:
