@@ -2,8 +2,22 @@
 layout: page
 title: Rakennuttaminen
 permalink: /referenssit/rakennuttaminen/
+type: reference
 ---
 
 h2. {{ page.title }}
 
-TODO
+Aleksanterinkatu 17: Kohteen vesikattokorjauksen rakennuttaminen.
+
+Kylänvanhimmantie 21: Kohteen vesikattokorjauksen rakennuttaminen.
+
+Mikkolankuja 4: Kohteen vesikatto-, julkisivu- ja ikkunakorjausten rakennuttaminen.
+
+Oihonna: Kohteen rappauskorjauksen ja ikkunoiden korjauksen rakennuttaminen.
+
+Ratavallintie 16: Kohteen vesikatto-, julkisivu- ja ikkunakorjausten rakennuttaminen.
+
+Töölönkatu 49: Kohteen julkisivu- ja pihakansikorjauksen rakennuttaminen.
+
+Urakkatie 2 ja 6: Kohteen vesikatto-, julkisivu- ja ikkunakorjausten rakennuttaminen.
+

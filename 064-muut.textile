@@ -6,4 +6,4 @@ permalink: /referenssit/muut-tutkimukset/
 
 h2. {{ page.title }}
 
-TODO
+Kauniaisten jäähalli: Laajarunkoisen hallin rungon lakisääteinen arviointi.

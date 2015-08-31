@@ -6,4 +6,12 @@ permalink: /referenssit/uudisrakentaminen/
 
 h2. {{ page.title }}
 
-TODO
+Otaniemen tiedeasunnot: Tutkijahotellin rakennesuunnittelu.
+
+Kauklahden palvelutalo: Palvelutalon rakennesuunnittelu.
+
+Espoon Steinerkoulu: Koulurakennuksen rakennesuunnittelu.
+
+Loma-asunto Porvoo: Loma-asunnon rakennesuunnittelu.
+
+Tali Golf maneesi: Maneesirakennuksen rakennesuunnittelu.

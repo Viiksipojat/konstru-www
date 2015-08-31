@@ -2,8 +2,95 @@
 layout: page
 title: Korjausrakentaminen
 permalink: /referenssit/korjausrakentaminen/
+type: reference
 ---
 
 h2. {{ page.title }}
 
-TODO
+<div id="korjaus-aleksanterinkatu-17" class="carousel slide">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#korjaus-aleksanterinkatu-17" data-slide-to="0" class="active"></li>
+    <li data-target="#korjaus-aleksanterinkatu-17" data-slide-to="1"></li>
+    <li data-target="#korjaus-aleksanterinkatu-17" data-slide-to="2"></li>
+    <li data-target="#korjaus-aleksanterinkatu-17" data-slide-to="3"></li>
+    <li data-target="#korjaus-aleksanterinkatu-17" data-slide-to="4"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu17/DSCN3580.JPG" | prepend: site.baseurl }}"></div>
+    <div class="item"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu17/DSCN5988.JPG" | prepend: site.baseurl }}"></div>
+    <div class="item"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu17/DSCN6186.JPG" | prepend: site.baseurl }}"></div>
+    <div class="item"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu17/DSCN6708.JPG" | prepend: site.baseurl }}"></div>
+    <div class="item"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu17/DSCN6714.JPG" | prepend: site.baseurl }}"></div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#korjaus-aleksanterinkatu-17" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#korjaus-aleksanterinkatu-17" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
+Aleksanterinkatu 17: Kohteen vesikatto ja yläpohjarakenteiden korjaus.
+
+<div id="korjaus-aleksanterinkatu-42" class="carousel slide">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#korjaus-aleksanterinkatu-42" data-slide-to="0" class="active"></li>
+    <li data-target="#korjaus-aleksanterinkatu-42" data-slide-to="1"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu42/DSCN0720.JPG" | prepend: site.baseurl }}"></div>
+    <div class="item"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu42/DSCN3578.JPG" | prepend: site.baseurl }}"></div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#korjaus-aleksanterinkatu-42" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#korjaus-aleksanterinkatu-42" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
+Aleksanterinkatu 42: Kohteen välipohjien ja lasikaton palo-osastointikorjausten suunnittelu sekä välipohjien peruskorjaus. Ylempien kerrosten muutos liiketilasta hotelliksi.
+
+Aleksanterinkatu 44: Kohteen sisäpihan rappausten, pihakannen ja ikkunoiden peruskorjaukset. Välipohjien osittainen peruskorjaus sekä parvekekorjaukset. 
+
+Digita mastoperustukset: Mastoperustuksien vahvistamiset uusilla kallioon jännitetyillä anturoilla. Mastoperustojen paikkakorjaukset.
+
+Eteläesplanadi 2: Kohteen sisätilojen peruskorjaus sekä tilamuutokset.
+
+Hietakummun ala-aste: Kohteen talotekniikan peruskorjaus, julkisivu- ja osittainen vesikattokorjaus sekä tilamuutokset.
+
+Hotel GLO Kluuvi: Kohteen hotellilaajennus sekä tilamuutokset. Osittainen vesikattokorjaus.
+
+Keskuskatu 7: Kohteen sisäpihan vesikaton peruskorjaus.
+
+Klaus K: Kohteen toimistotilojen muuttaminen hotellihuoneiksi sekä kattoterassin, parvekkeiden ja vesikaton korjaus.
+
+Kylänvanhimmantie 21: Kohteen vesikattojen peruskorjaus.
+
+Lahden radiomastot: TODO: TÄSTÄ PUUTTUNEE TEKSTIÄ?
+
+Mikkolankuja 4: Kohteen vesikattojen peruskorjaus sekä julkisivujen ja ikkunoiden huoltokorjaukset.
+
+Nervanderinkatu 13: Kohteen täydellinen peruskorjaus ja laajennusosan rakentaminen Sibelius Akatemian käyttöön.
+
+Ratavallintie 16: Kohteen vesikattojen peruskorjaus sekä julkisivujen ja ikkunoiden huoltokorjaukset.
+
+Töölönkatu 49: Kohteen julkisivujen rappausten ja pihakannen peruskorjaukset sekä linjasaneeraus.
+
+Urakkatie 2 ja 6: Kohteen vesikattojen peruskorjaus sekä julkisivujen ja ikkunoiden huoltokorjaukset.
+
+Yleisradio: Kiinteistöjen liittämiset kaukokylmään, vesikattokorjauksia sekä tila- ja tekniikkamuutoksia.

@@ -6,4 +6,22 @@ permalink: /referenssit/kuntotutkimukset/
 
 h2. {{ page.title }}
 
-TODO
+Hämeenkylän kartano: Kohteen kartanorakennuksen rappausten kuntotutkimus sekä majoitusrakennuksen betonijulkisivujen kuntotutkimus.
+
+Kaarenhaltija: Kohteen betonijulkisivujen kuntotutkimus.
+
+Kornetintie 3: Kohteen betonijulkisivujen sekä vesikaton kuntotutkimukset.
+
+Panorama Tower: Kohteen julkisivujen teräsosien rakennetutkimus.
+
+Pasilan Puistotie 10: Kohteen betonijulkisivujen, ikkunoiden ja vesikattojen kuntotutkimus.
+
+Pasilanraitio 12: Kohteen betonijulkisivujen, ikkunoiden ja vesikattojen kuntotutkimus.
+
+Pohjoisesplanandi 29: Kohteen julkisivurappausten ja kipsikoristeiden kuntotutkimus.
+
+Ratavallintie 16: Kohteen betonijulkisivujen, ikkunoiden ja vesikattojen kuntotutkimus.
+
+Snellmaninkatu 10: Kohteen julkisivurappauksen kuntotutkimus.
+
+Töölönkatu 49: Kohteen julkisivurappausten sekä ikkunoiden kuntotutkimus.
