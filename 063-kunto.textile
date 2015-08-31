@@ -1,0 +1,9 @@
+---
+layout: page
+title: Kuntotutkimukset ja -arviot
+permalink: /referenssit/kuntotutkimukset/
+---
+
+h2. {{ page.title }}
+
+TODO
