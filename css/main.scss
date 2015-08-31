@@ -18,7 +18,9 @@
 //$container-desktop: $container-tablet;
 $container-large-desktop: 970px; 
 
-$brand-primary: #4954b6;
+// $brand-primary: #5AB152;
+$brand-primary: #00ba54;
+$bg-color: #bbb;
 $black: #222;
 $font-size-base: 18px;
 $font-family-base: Georgia, "Times New Roman", Times, serif;
@@ -32,11 +34,14 @@ $navbar-default-link-active-color: $brand-primary;
 $navbar-default-toggle-icon-bar-bg: $brand-primary;
 $navbar-default-toggle-border-color: transparent;
 
+$icon-font-path: "/fonts/";
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "bootstrap";
 
 body {
-	background-color: #d5d5d5;
+	background-color: $bg-color;
+
 }
 
 .navbar-brand {
@@ -50,7 +55,7 @@ body {
 	text-transform: uppercase;
 }
 @media (min-width: $screen-sm-min) {
-	.navbar-nav .active a {
+	.navbar-nav .active > a {
 		border-bottom: 5px solid;
 	}
 	.navbar-nav > li > a {
@@ -59,12 +64,33 @@ body {
 	}
 }
 
+
+
+/* reset dropdown-menu */
+.navbar-right .dropdown-menu {
+	background-color: $bg-color;
+	border: none;
+	box-shadow: none;
+	text-align: center;
+	right: -0.6em;
+	margin-top: -1.4em;
+}
+.navbar-right .dropdown-menu > li.active > a {
+	color: $brand-primary;
+	border: none;
+	background-color: $bg-color;
+}
+.navbar-right .dropdown-menu a:hover {
+	background-color: transparent !important;
+	color: $brand-primary;
+}
+
 #content {
 	background-image: url("../static/bg-bw-1200.jpg");
 	background-size: 100%;
 	background-position: bottom;
 	background-repeat: no-repeat;
-	padding-bottom: 35%;
+	padding-bottom: 40%;
 	min-height: 800px;
 }
 
@@ -73,6 +99,10 @@ body {
 	height: 400px;
 }
 
+.reference p {
+	text-align: center;
+	margin: 1em 0 2em;
+}
 
 footer {
 	font-size: $font-size-small;
