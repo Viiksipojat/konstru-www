@@ -1,0 +1,21 @@
+---
+layout: page
+title: Palvelut
+permalink: /palvelut/
+---
+
+h2. Korjausrakentaminen 
+
+Päätoimialamme on korjausrakentamisen rakennesuunnittelu. Teemme korjausrakentamisen suunnittelua laaja-alaisesti sekä julkiselle sektorille että yksittäisille taloyhtiöille ja henkilöille. Kohteidemme koko vaihtelee kiinteistöjen peruskorjauksista aina pieniin muutoksiin. Meille jokainen projekti on tärkeä, ja hoidamme sen ammattitaidolla alusta loppuun saakka sovitussa aikataulussa. Esimerkiksi julkisivu- tai vesikattokorjauksissa voimme tarjota asiakkaalle kokonaispaketin kuntotutkimuksesta suunnitteluun ja kohteen rakennuttamiseen.
+
+h2. Uudisrakentaminen
+
+Uudisrakentamisen puolella olemme pääasiassa keskittyneet asuinkerrostalojen ja pientalojen rakennesuunnitteluun. Näiden lisäksi olemme suunnitelleet myös julkisia rakennuksia. Uudisrakentamisen ratkaisuissamme olemme hyödyntäneet kokemustamme korjausrakentamisen puolelta pohtiessamme pitkäikäisiä sekä toimivia rakenneratkaisuita.
+
+h2. Kuntotutkimukset ja -arviot
+
+Korjausrakennesuunnittelun ohella teemme myös kiinteistöjen kuntotutkimuksia ja -arvioita. Tutkimuksemme toimivat usein pohjana varsinaiselle korjaussuunnittelulle määritettäessä sen laajuutta sekä korjaustapoja. Teemme kuntotutkimuksemme aina niin, että ne palvelevat mahdollisimman hyvin korjaussuunnittelua ja korjaustarpeen määrittämistä. Kuntotutkimukset suorittavat kokeneet korjaussuunnittelijamme, jolloin erilaisten rakenteiden vaurioitumismekanismit sekä parhaat mahdolliset korjaustavat ovat heillä hyvin tiedossa.
+
+h2. Rakennuttaminen
+
+Tarjoamme asiakkaillemme myös rakennuttamisen sekä työmaavalvonnan palveluita suunnittelemissamme korjauskohteissa. Tällöin sama henkilö vastaa suunnitteluvaiheesta sekä työmaan valvonnasta ja rakennuttamisesta, jolloin paras tieto kohteen rakenteista ja suunnitteluratkaisuista on aina yhdellä vastuuhenkilöllä.
