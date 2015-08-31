@@ -1,17 +1,29 @@
 # site settings
 title: Konstru
 description: TODO Prööted to head meta description.
-baseurl: "/konstru-www"
 url: "http://viiksipojat.github.io"
-# baseurl: ""
+# baseurl: "/konstru-www"
+baseurl: ""
 # url: "http://konstru.fi" # the base hostname & protocol for your site
 navigation: 
-  - /
+  - /yritys/
   - /yhteystiedot/
   - /rekrytointi/
-# - /ota-yhteytta/ # TODO: merge w/ yhteystiedot
   - /palvelut/
-  - /referenssit/
+# - /referenssit/ # special case, HARD-CODED IN header.html
+references:
+  - title: Korjausrakentaminen
+    url: /referenssit/korjausrakentaminen/
+  - title: Uudisrakentaminen
+    url: /referenssit/uudisrakentaminen/
+  - title: Kuntotutkimukset ja -arviot
+    url: /referenssit/kuntotutkimukset/
+  - title: Muut tutkimukset
+    url: /referenssit/muut-tutkimukset/
+  - title: Rakennuttaminen
+    url: /referenssit/rakennuttaminen/
+
+
 
 sass:
   sass_dir: bower_components/bootstrap-sass/assets/stylesheets
