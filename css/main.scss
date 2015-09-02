@@ -3,16 +3,16 @@
 ---
 @charset "utf-8";
 
-@font-face {
-    font-family: 'PTSANS';
-    src: url('../fonts/PTN77F-webfont.eot');
-    src: url('../fonts/PTN77F-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/PTN77F-webfont.woff') format('woff'),
-         url('../fonts/PTN77F-webfont.ttf') format('truetype'),
-         url('../fonts/PTN77F-webfont.svg#pt_sans_narrowbold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+// @font-face {
+//     font-family: 'PTSANS';
+//     src: url('../fonts/PTN77F-webfont.eot');
+//     src: url('../fonts/PTN77F-webfont.eot?#iefix') format('embedded-opentype'),
+//          url('../fonts/PTN77F-webfont.woff') format('woff'),
+//          url('../fonts/PTN77F-webfont.ttf') format('truetype'),
+//          url('../fonts/PTN77F-webfont.svg#pt_sans_narrowbold') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
 
 //$container-tablet: 750px;
 //$container-desktop: $container-tablet;
@@ -24,7 +24,7 @@ $bg-color: #bbb;
 $black: #222;
 $font-size-base: 18px;
 $font-family-base: Georgia, "Times New Roman", Times, serif;
-$headings-font-family: "PTSANS", sans-serif;
+$headings-font-family: Arial, sans-serif;
 
 $navbar-default-bg: transparent;
 $navbar-height: 100px;
@@ -34,7 +34,7 @@ $navbar-default-link-active-color: $brand-primary;
 $navbar-default-toggle-icon-bar-bg: $brand-primary;
 $navbar-default-toggle-border-color: transparent;
 
-$icon-font-path: "/fonts/";
+$icon-font-path: "/konstru-www/fonts/";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "bootstrap";
@@ -46,9 +46,9 @@ body {
 
 .navbar-brand {
 	font-family: $headings-font-family;
-	text-transform: uppercase;
 	color: $brand-primary !important;
 	font-size: $font-size-base * 2;
+	font-weight: bold;
 }
 .navbar-nav a {
 	font-family: $headings-font-family;
