@@ -235,8 +235,7 @@ h2. Yhteyshenkilöt
 	</div>
 	<div class="col-md-4">
 		Joni Sundström, RI yamk
-		Varatoimitusjohtaja/
-		Projektipäällikkö
+		Varatoimitusjohtaja
 		+358 400 304 961
 		"joni.sundstrom@konstru.fi":mailto:joni.sundstrom@konstru.fi
 	</div>
@@ -247,11 +246,5 @@ h2. Yhteyshenkilöt
 		"jari.mononen@konstru.fi":mailto:jari.mononen@konstru.fi
 	</div>
 </div>
-
-h2. Paperilaskut
-
-Insinööritoimisto Konstru Oy
-Ahventie 4 B
-02170 Espoo
 
 <!-- h2. Ota yhteyttä -->
