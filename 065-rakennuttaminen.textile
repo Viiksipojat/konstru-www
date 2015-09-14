@@ -7,17 +7,144 @@ type: reference
 
 h2. {{ page.title }}
 
+<div id="Aleksanterinkatu_17" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Aleksanterinkatu_17' data-slide-to='0' class='active'></li>
+    <li data-target='#Aleksanterinkatu_17' data-slide-to='1'></li>
+    <li data-target='#Aleksanterinkatu_17' data-slide-to='2'></li>
+    <li data-target='#Aleksanterinkatu_17' data-slide-to='3'></li>
+    <li data-target='#Aleksanterinkatu_17' data-slide-to='4'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/3_Rakennuttaminen/Aleksanterinkatu_17/DSCN3580.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Aleksanterinkatu_17/DSCN5988.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Aleksanterinkatu_17/DSCN6186.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Aleksanterinkatu_17/DSCN6708.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Aleksanterinkatu_17/DSCN6714.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Aleksanterinkatu_17" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Aleksanterinkatu_17" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Aleksanterinkatu 17: Kohteen vesikattokorjauksen rakennuttaminen.
+
+<div id="Kylanvanhimmantie_21" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Kylanvanhimmantie_21' data-slide-to='0' class='active'></li>
+    <li data-target='#Kylanvanhimmantie_21' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/3_Rakennuttaminen/Kylanvanhimmantie_21/IMG_4352.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Kylanvanhimmantie_21/IMG_4722.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Kylanvanhimmantie_21" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Kylanvanhimmantie_21" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
 Kylänvanhimmantie 21: Kohteen vesikattokorjauksen rakennuttaminen.
 
+<div id="Mikkonlankuja_4" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Mikkonlankuja_4' data-slide-to='0' class='active'></li>
+    <li data-target='#Mikkonlankuja_4' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/3_Rakennuttaminen/Mikkonlankuja_4/DSCN1712.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Mikkonlankuja_4/DSCN1778.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Mikkonlankuja_4" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Mikkonlankuja_4" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Mikkolankuja 4: Kohteen vesikatto-, julkisivu- ja ikkunakorjausten rakennuttaminen.
+
+<div id="Oihonna" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Oihonna' data-slide-to='0' class='active'></li>
+    <li data-target='#Oihonna' data-slide-to='1'></li>
+    <li data-target='#Oihonna' data-slide-to='2'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/3_Rakennuttaminen/Oihonna/005.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Oihonna/007.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Oihonna/DSCN3598.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Oihonna" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Oihonna" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
 Oihonna: Kohteen rappauskorjauksen ja ikkunoiden korjauksen rakennuttaminen.
 
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/3_Rakennuttaminen/Ratavallintie_16/DSCN3642.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  
 Ratavallintie 16: Kohteen vesikatto-, julkisivu- ja ikkunakorjausten rakennuttaminen.
+
+<div id="Toolonkatu_49" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Toolonkatu_49' data-slide-to='0' class='active'></li>
+    <li data-target='#Toolonkatu_49' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/3_Rakennuttaminen/Toolonkatu_49/DSCN3356.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Toolonkatu_49/IMG_0001.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Toolonkatu_49" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Toolonkatu_49" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
 Töölönkatu 49: Kohteen julkisivu- ja pihakansikorjauksen rakennuttaminen.
 
-Urakkatie 2 ja 6: Kohteen vesikatto-, julkisivu- ja ikkunakorjausten rakennuttaminen.
+<div id="Urakkatie_2_ja_6" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Urakkatie_2_ja_6' data-slide-to='0' class='active'></li>
+    <li data-target='#Urakkatie_2_ja_6' data-slide-to='1'></li>
+    <li data-target='#Urakkatie_2_ja_6' data-slide-to='2'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/3_Rakennuttaminen/Urakkatie_2_ja_6/DSCN9558.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Urakkatie_2_ja_6/DSCN9586.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/3_Rakennuttaminen/Urakkatie_2_ja_6/PB120017.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Urakkatie_2_ja_6" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Urakkatie_2_ja_6" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
+Urakkatie 2 ja 6: Kohteen vesikatto-, julkisivu- ja ikkunakorjausten rakennuttaminen.

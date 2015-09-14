@@ -2,8 +2,13 @@
 layout: page
 title: Muut tutkimukset
 permalink: /referenssit/muut-tutkimukset/
+type: reference
 ---
 
 h2. {{ page.title }}
+
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/5_Muut_tutkimukset/Kauniaisten_jaahalli/IMG_3355.JPG" | prepend: site.baseurl }}'></div>
+  </div>
 
 Kauniaisten jäähalli: Laajarunkoisen hallin rungon lakisääteinen arviointi.

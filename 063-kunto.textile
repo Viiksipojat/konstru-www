@@ -2,26 +2,142 @@
 layout: page
 title: Kuntotutkimukset ja -arviot
 permalink: /referenssit/kuntotutkimukset/
+type: reference
 ---
 
 h2. {{ page.title }}
 
+<div id="Hameenkylan_kartano" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Hameenkylan_kartano' data-slide-to='0' class='active'></li>
+    <li data-target='#Hameenkylan_kartano' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/4_Kuntotutkimukset/Hameenkylan_kartano/IMG_4852.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/4_Kuntotutkimukset/Hameenkylan_kartano/IMG_4865.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Hameenkylan_kartano" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Hameenkylan_kartano" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Hämeenkylän kartano: Kohteen kartanorakennuksen rappausten kuntotutkimus sekä majoitusrakennuksen betonijulkisivujen kuntotutkimus.
+
+<div id="Kaarenhaltija" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Kaarenhaltija' data-slide-to='0' class='active'></li>
+    <li data-target='#Kaarenhaltija' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/4_Kuntotutkimukset/Kaarenhaltija/DSC_5086.jpg" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/4_Kuntotutkimukset/Kaarenhaltija/DSC_5095.jpg" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Kaarenhaltija" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Kaarenhaltija" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
 Kaarenhaltija: Kohteen betonijulkisivujen kuntotutkimus.
 
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/4_Kuntotutkimukset/Kornetintie_3/DSCN3283.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+
 Kornetintie 3: Kohteen betonijulkisivujen sekä vesikaton kuntotutkimukset.
+
+<div id="Panorama_Tower" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Panorama_Tower' data-slide-to='0' class='active'></li>
+    <li data-target='#Panorama_Tower' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/4_Kuntotutkimukset/Panorama_Tower/DSCN2645.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/4_Kuntotutkimukset/Panorama_Tower/DSCN2696.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Panorama_Tower" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Panorama_Tower" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
 Panorama Tower: Kohteen julkisivujen teräsosien rakennetutkimus.
 
+<div id="Pasilan_Puistotie_10" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Pasilan_Puistotie_10' data-slide-to='0' class='active'></li>
+    <li data-target='#Pasilan_Puistotie_10' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/4_Kuntotutkimukset/Pasilan_Puistotie_10/DSCN0438.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/4_Kuntotutkimukset/Pasilan_Puistotie_10/DSCN0517.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Pasilan_Puistotie_10" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Pasilan_Puistotie_10" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Pasilan Puistotie 10: Kohteen betonijulkisivujen, ikkunoiden ja vesikattojen kuntotutkimus.
+
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/4_Kuntotutkimukset/Pasilanraitio_12/DSCN1197.JPG" | prepend: site.baseurl }}'></div>
+  </div>
 
 Pasilanraitio 12: Kohteen betonijulkisivujen, ikkunoiden ja vesikattojen kuntotutkimus.
 
+<div id="Pohjoisesplanadi_29" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Pohjoisesplanadi_29' data-slide-to='0' class='active'></li>
+    <li data-target='#Pohjoisesplanadi_29' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/4_Kuntotutkimukset/Pohjoisesplanadi_29/DSCN3503.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/4_Kuntotutkimukset/Pohjoisesplanadi_29/DSCN3532.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Pohjoisesplanadi_29" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Pohjoisesplanadi_29" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Pohjoisesplanandi 29: Kohteen julkisivurappausten ja kipsikoristeiden kuntotutkimus.
+
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/4_Kuntotutkimukset/Ratavallintie_16/DSCN1365.JPG" | prepend: site.baseurl }}'></div>
+  </div>
 
 Ratavallintie 16: Kohteen betonijulkisivujen, ikkunoiden ja vesikattojen kuntotutkimus.
 
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/4_Kuntotutkimukset/Snellmaninkatu_10/DSCN3013.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+
 Snellmaninkatu 10: Kohteen julkisivurappauksen kuntotutkimus.
+
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/4_Kuntotutkimukset/Toolonkatu_49/DSCN0151.JPG" | prepend: site.baseurl }}'></div>
+  </div>
 
 Töölönkatu 49: Kohteen julkisivurappausten sekä ikkunoiden kuntotutkimus.

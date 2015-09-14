@@ -7,31 +7,26 @@ type: reference
 
 h2. {{ page.title }}
 
-<div id="korjaus-aleksanterinkatu-17" class="carousel slide">
-  <!-- Indicators -->
+<div id="Aleksanterinkatu_17" class="carousel slide">
   <ol class="carousel-indicators">
-    <li data-target="#korjaus-aleksanterinkatu-17" data-slide-to="0" class="active"></li>
-    <li data-target="#korjaus-aleksanterinkatu-17" data-slide-to="1"></li>
-    <li data-target="#korjaus-aleksanterinkatu-17" data-slide-to="2"></li>
-    <li data-target="#korjaus-aleksanterinkatu-17" data-slide-to="3"></li>
-    <li data-target="#korjaus-aleksanterinkatu-17" data-slide-to="4"></li>
+    <li data-target='#Aleksanterinkatu_17' data-slide-to='0' class='active'></li>
+    <li data-target='#Aleksanterinkatu_17' data-slide-to='1'></li>
+    <li data-target='#Aleksanterinkatu_17' data-slide-to='2'></li>
+    <li data-target='#Aleksanterinkatu_17' data-slide-to='3'></li>
+    <li data-target='#Aleksanterinkatu_17' data-slide-to='4'></li>
   </ol>
-
-  <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    <div class="item active"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu17/DSCN3580.JPG" | prepend: site.baseurl }}"></div>
-    <div class="item"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu17/DSCN5988.JPG" | prepend: site.baseurl }}"></div>
-    <div class="item"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu17/DSCN6186.JPG" | prepend: site.baseurl }}"></div>
-    <div class="item"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu17/DSCN6708.JPG" | prepend: site.baseurl }}"></div>
-    <div class="item"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu17/DSCN6714.JPG" | prepend: site.baseurl }}"></div>
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu_17/DSCN3580.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu_17/DSCN5988.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu_17/DSCN6186.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu_17/DSCN6708.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu_17/DSCN6714.JPG" | prepend: site.baseurl }}'></div>
   </div>
-
-  <!-- Controls -->
-  <a class="left carousel-control" href="#korjaus-aleksanterinkatu-17" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#Aleksanterinkatu_17" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Edellinen</span>
   </a>
-  <a class="right carousel-control" href="#korjaus-aleksanterinkatu-17" role="button" data-slide="next">
+  <a class="right carousel-control" href="#Aleksanterinkatu_17" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Seuraava</span>
   </a>
@@ -39,25 +34,20 @@ h2. {{ page.title }}
 
 Aleksanterinkatu 17: Kohteen vesikatto ja yläpohjarakenteiden korjaus.
 
-<div id="korjaus-aleksanterinkatu-42" class="carousel slide">
-  <!-- Indicators -->
+<div id="Aleksanterinkatu_42" class="carousel slide">
   <ol class="carousel-indicators">
-    <li data-target="#korjaus-aleksanterinkatu-42" data-slide-to="0" class="active"></li>
-    <li data-target="#korjaus-aleksanterinkatu-42" data-slide-to="1"></li>
+    <li data-target='#Aleksanterinkatu_42' data-slide-to='0' class='active'></li>
+    <li data-target='#Aleksanterinkatu_42' data-slide-to='1'></li>
   </ol>
-
-  <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    <div class="item active"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu42/DSCN0720.JPG" | prepend: site.baseurl }}"></div>
-    <div class="item"><img src="{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu42/DSCN3578.JPG" | prepend: site.baseurl }}"></div>
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu_42/DSCN0720.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu_42/DSCN3578.JPG" | prepend: site.baseurl }}'></div>
   </div>
-
-  <!-- Controls -->
-  <a class="left carousel-control" href="#korjaus-aleksanterinkatu-42" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#Aleksanterinkatu_42" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Edellinen</span>
   </a>
-  <a class="right carousel-control" href="#korjaus-aleksanterinkatu-42" role="button" data-slide="next">
+  <a class="right carousel-control" href="#Aleksanterinkatu_42" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Seuraava</span>
   </a>
@@ -65,32 +55,292 @@ Aleksanterinkatu 17: Kohteen vesikatto ja yläpohjarakenteiden korjaus.
 
 Aleksanterinkatu 42: Kohteen välipohjien ja lasikaton palo-osastointikorjausten suunnittelu sekä välipohjien peruskorjaus. Ylempien kerrosten muutos liiketilasta hotelliksi.
 
+<div id="Aleksanterinkatu_44" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Aleksanterinkatu_44' data-slide-to='0' class='active'></li>
+    <li data-target='#Aleksanterinkatu_44' data-slide-to='1'></li>
+    <li data-target='#Aleksanterinkatu_44' data-slide-to='2'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu_44/DSCN0868.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu_44/DSCN3390.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Aleksanterinkatu_44/DSCN3579.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Aleksanterinkatu_44" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Aleksanterinkatu_44" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Aleksanterinkatu 44: Kohteen sisäpihan rappausten, pihakannen ja ikkunoiden peruskorjaukset. Välipohjien osittainen peruskorjaus sekä parvekekorjaukset. 
+
+<div id="Digita" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Digita' data-slide-to='0' class='active'></li>
+    <li data-target='#Digita' data-slide-to='1'></li>
+    <li data-target='#Digita' data-slide-to='2'></li>
+    <li data-target='#Digita' data-slide-to='3'></li>
+    <li data-target='#Digita' data-slide-to='4'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Digita/DSCN0619.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Digita/DSCN0652.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Digita/Kuva_001.jpg" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Digita/Kuva_009.jpg" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Digita/Kuva_029.jpg" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Digita" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Digita" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
 Digita mastoperustukset: Mastoperustuksien vahvistamiset uusilla kallioon jännitetyillä anturoilla. Mastoperustojen paikkakorjaukset.
 
+<div id="Etelaesplanadi_2" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Etelaesplanadi_2' data-slide-to='0' class='active'></li>
+    <li data-target='#Etelaesplanadi_2' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Etelaesplanadi_2/DSCN3583.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Etelaesplanadi_2/DSCN9749.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Etelaesplanadi_2" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Etelaesplanadi_2" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Eteläesplanadi 2: Kohteen sisätilojen peruskorjaus sekä tilamuutokset.
+
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Hietakummun_ala-aste/DSCN2451.JPG" | prepend: site.baseurl }}'></div>
+  </div>
 
 Hietakummun ala-aste: Kohteen talotekniikan peruskorjaus, julkisivu- ja osittainen vesikattokorjaus sekä tilamuutokset.
 
+<div id="Hotel_GLO_Kluuvi" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Hotel_GLO_Kluuvi' data-slide-to='0' class='active'></li>
+    <li data-target='#Hotel_GLO_Kluuvi' data-slide-to='1'></li>
+    <li data-target='#Hotel_GLO_Kluuvi' data-slide-to='2'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Hotel_GLO_Kluuvi/DSCN1875.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Hotel_GLO_Kluuvi/DSCN3577.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Hotel_GLO_Kluuvi/Kuva_001.jpg" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Hotel_GLO_Kluuvi" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Hotel_GLO_Kluuvi" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Hotel GLO Kluuvi: Kohteen hotellilaajennus sekä tilamuutokset. Osittainen vesikattokorjaus.
+
+<div id="Keskuskatu_7" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Keskuskatu_7' data-slide-to='0' class='active'></li>
+    <li data-target='#Keskuskatu_7' data-slide-to='1'></li>
+    <li data-target='#Keskuskatu_7' data-slide-to='2'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Keskuskatu_7/DSCN1959.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Keskuskatu_7/DSCN2204.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Keskuskatu_7/P6180002.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Keskuskatu_7" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Keskuskatu_7" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
 Keskuskatu 7: Kohteen sisäpihan vesikaton peruskorjaus.
 
+<div id="Klaus_K" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Klaus_K' data-slide-to='0' class='active'></li>
+    <li data-target='#Klaus_K' data-slide-to='1'></li>
+    <li data-target='#Klaus_K' data-slide-to='2'></li>
+    <li data-target='#Klaus_K' data-slide-to='3'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Klaus_K/IMG_0003.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Klaus_K/IMG_0012.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Klaus_K/IMG_0014.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Klaus_K/IMG_0015.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Klaus_K" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Klaus_K" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Klaus K: Kohteen toimistotilojen muuttaminen hotellihuoneiksi sekä kattoterassin, parvekkeiden ja vesikaton korjaus.
+
+<div id="Kylanvanhimmantie_21" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Kylanvanhimmantie_21' data-slide-to='0' class='active'></li>
+    <li data-target='#Kylanvanhimmantie_21' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Kylanvanhimmantie_21/IMG_4352.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Kylanvanhimmantie_21/IMG_4722.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Kylanvanhimmantie_21" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Kylanvanhimmantie_21" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
 Kylänvanhimmantie 21: Kohteen vesikattojen peruskorjaus.
 
-Lahden radiomastot: TODO: TÄSTÄ PUUTTUNEE TEKSTIÄ?
+<div id="Mikkolankuja_4" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Mikkolankuja_4' data-slide-to='0' class='active'></li>
+    <li data-target='#Mikkolankuja_4' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Mikkolankuja_4/DSCN1712.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Mikkolankuja_4/DSCN1778.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Mikkolankuja_4" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Mikkolankuja_4" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
 Mikkolankuja 4: Kohteen vesikattojen peruskorjaus sekä julkisivujen ja ikkunoiden huoltokorjaukset.
 
+<div id="Nervis" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Nervis' data-slide-to='0' class='active'></li>
+    <li data-target='#Nervis' data-slide-to='1'></li>
+    <li data-target='#Nervis' data-slide-to='2'></li>
+    <li data-target='#Nervis' data-slide-to='3'></li>
+    <li data-target='#Nervis' data-slide-to='4'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Nervis/DSC_0748.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Nervis/P8020036.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Nervis/P8130010.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Nervis/P8130017.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Nervis/WP_20141021_08_59_59_Pro.jpg" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Nervis" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Nervis" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Nervanderinkatu 13: Kohteen täydellinen peruskorjaus ja laajennusosan rakentaminen Sibelius Akatemian käyttöön.
+
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Ratavallintie_16/DSCN3642.JPG" | prepend: site.baseurl }}'></div>
+  </div>
 
 Ratavallintie 16: Kohteen vesikattojen peruskorjaus sekä julkisivujen ja ikkunoiden huoltokorjaukset.
 
+<div id="Toolonkatu_49" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Toolonkatu_49' data-slide-to='0' class='active'></li>
+    <li data-target='#Toolonkatu_49' data-slide-to='1'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Toolonkatu_49/DSCN3356.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Toolonkatu_49/IMG_0001.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Toolonkatu_49" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Toolonkatu_49" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Töölönkatu 49: Kohteen julkisivujen rappausten ja pihakannen peruskorjaukset sekä linjasaneeraus.
 
+<div id="Urakkatie_2_ja_6" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Urakkatie_2_ja_6' data-slide-to='0' class='active'></li>
+    <li data-target='#Urakkatie_2_ja_6' data-slide-to='1'></li>
+    <li data-target='#Urakkatie_2_ja_6' data-slide-to='2'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Urakkatie_2_ja_6/DSCN9558.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Urakkatie_2_ja_6/DSCN9586.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Urakkatie_2_ja_6/PB120017.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Urakkatie_2_ja_6" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Urakkatie_2_ja_6" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
+
 Urakkatie 2 ja 6: Kohteen vesikattojen peruskorjaus sekä julkisivujen ja ikkunoiden huoltokorjaukset.
+
+<div id="Yleisradio" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target='#Yleisradio' data-slide-to='0' class='active'></li>
+    <li data-target='#Yleisradio' data-slide-to='1'></li>
+    <li data-target='#Yleisradio' data-slide-to='2'></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class='item active'><img src='{{ "/static/refe/1_Korjausrakentaminen/Yleisradio/DSCN3061.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Yleisradio/DSCN8278.JPG" | prepend: site.baseurl }}'></div>
+    <div class='item'><img src='{{ "/static/refe/1_Korjausrakentaminen/Yleisradio/DSCN9772.JPG" | prepend: site.baseurl }}'></div>
+  </div>
+  <a class="left carousel-control" href="#Yleisradio" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Edellinen</span>
+  </a>
+  <a class="right carousel-control" href="#Yleisradio" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Seuraava</span>
+  </a>
+</div>
 
 Yleisradio: Kiinteistöjen liittämiset kaukokylmään, vesikattokorjauksia sekä tila- ja tekniikkamuutoksia.
