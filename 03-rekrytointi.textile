@@ -6,5 +6,5 @@ permalink: /rekrytointi/
 
 Etsimme jatkuvasti joukkoomme uusia rakennesuunnittelun osaajia. Olet sitten pitkän työkokemuksen omaava ammattilainen tai vastavalmistunut ja oppimishaluinen (DI tai RI amk) nuori suunnittelija, meillä on töitä työstään innostuneille insinööreille. Meillä pääset tekemään monipuolisia töitä kokeneiden ammattilaisten johdolla tai kokemuksestasi riippuen vastaamaan projektien hoitamisesta alusta loppuun nuorempien suunnittelijoiden kanssa. Omalla osaamisellasi ja kiinnostuksellasi vaikutat siihen, minkälaisissa tehtävissä ja hankkeissa toimit.
 
-Vapaamuotoiset hakemukset ja CV:n voit lähettää "mika.laitala@konstru.fi":mailto:mika.laitala@konstru.fi tai oheisen linkin (TODO LINKKI) kautta. Lisätietoja antaa tarvittaessa toimitusjohtaja Mika Laitala, +358 40 865 4020.
+Vapaamuotoiset hakemukset ja CV:n voit lähettää "mika.laitala@konstru.fi":mailto:mika.laitala@konstru.fi tai oheisen "linkin":/rekrytointi/hakemus/ kautta. Lisätietoja antaa tarvittaessa toimitusjohtaja Mika Laitala, +358 40 865 4020.
 

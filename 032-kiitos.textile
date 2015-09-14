@@ -1,0 +1,9 @@
+---
+layout: page
+title: Hakemus vastaanotettu
+permalink: /rekrytointi/kiitos/
+---
+
+h2. {{ page.title }}
+
+Kiitos hakemuksestasi! Käsittelemme sen mahdollisemmin pian. 

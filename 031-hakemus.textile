@@ -1,0 +1,41 @@
+---
+layout: page
+title: Hakemus
+permalink: /rekrytointi/hakemus/
+---
+
+
+<form class="form-horizontal" method="post" action="http://www.konstru.fi/rekrytointi_.php" enctype="multipart/form-data">
+  <div class="col-sm-offset-3 col-sm-9">
+  	<legend>Hakemus</legend>
+  </div>
+  <div class="form-group"> 
+    <label for="nimi" class="col-sm-3 control-label">Nimi</label>
+    <div class="col-sm-9">
+      <input type="text" class="form-control" name="nimi" id="nimi" placeholder="Nimi">
+    </div>
+  </div>
+  <div class="form-group"> 
+    <label for="email" class="col-sm-3 control-label">Sähköpostiosoite</label>
+    <div class="col-sm-9">
+      <input type="email" class="form-control" name="email" id="email" placeholder="nimi@esimerkki.fi">
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="hakemus" class="col-sm-3 control-label">Vapaa sana</label>
+    <div class="col-sm-9">
+      <textarea class="form-control" name="hakemus" id="hakemus" rows="8"></textarea>
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="liite" class="col-sm-3 control-label">Liite</label>
+    <div class="col-sm-9">
+    	<input type="file" name="liite" id="liite">	
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+      <button type="submit" class="btn btn-primary">Lähetä</button>
+    </div>
+  </div>
+</form>

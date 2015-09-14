@@ -1,0 +1,9 @@
+---
+layout: page
+title: Virhe hakemuksen lähetyksessä
+permalink: /rekrytointi/virhe/
+---
+
+h2. {{ page.title }}
+
+Jokin meni vikaan hakemuksesi lähetyksessä. Kokeile lähettää se sähköpostitse "Mika Laitalalle":mailto:mika.laitala@konstru.fi.
