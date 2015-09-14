@@ -34,7 +34,7 @@ $navbar-default-link-active-color: $brand-primary;
 $navbar-default-toggle-icon-bar-bg: $brand-primary;
 $navbar-default-toggle-border-color: transparent;
 
-$icon-font-path: "/konstru-www/fonts/";
+$icon-font-path: "/fonts/";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "bootstrap";
@@ -102,6 +102,14 @@ body {
 .reference p {
 	text-align: center;
 	margin: 1em 0 2em;
+}
+
+// form pixel perfect fixes
+input[type="file"] {
+	padding-top: 7px;
+}
+button[type="submit"] {
+	margin-top: 2em;
 }
 
 footer {

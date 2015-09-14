@@ -1,10 +1,9 @@
 # site settings
 title: Konstru
-description: TODO Prööted to head meta description.
-url: "http://viiksipojat.github.io"
+description: Insinööritoimisto Konstru Oy on rakennesuunnittelutoimisto, jonka päätoimialana on korjausrakennesuunnittelu
+url: "http://www.konstru.fi"
 # baseurl: "/konstru-www"
 baseurl: ""
-# url: "http://konstru.fi" # the base hostname & protocol for your site
 navigation: 
   - /yritys/
   - /yhteystiedot/
@@ -23,15 +22,12 @@ references:
   - title: Rakennuttaminen
     url: /referenssit/rakennuttaminen/
 
-
-
 sass:
   sass_dir: bower_components/bootstrap-sass/assets/stylesheets
   style: compressed
 
 # build settings
 markdown: redcarpet
-# markdown: kramdown
 
 include:
   - .nojekyll
